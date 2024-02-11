@@ -1,12 +1,12 @@
 ## 💻 Projeto
 
-Cápsula do tempo com alguns projetos que desenvolvi durante cursos de desenvolvimento web.
+Time capsule with some projects I developed during web development courses.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
 
-Feito com 💜 durante o NLW Spacetime da Rocketseat.
+Made with 💜 during Rocketseat's NLW Spacetime.
