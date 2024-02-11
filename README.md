@@ -4,7 +4,7 @@
 
 ## 💻 Project
 
-Time capsule template with projects I participated like events and courses.
+Time capsule template with projects I participated like online courses and technology events.
 
 ## 🚀 Technologies
 
